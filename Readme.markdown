@@ -55,7 +55,7 @@ The Mode Set Team.
 10K Runner
 ----------
 1. Eirik  Dentz Sinclair **47:12.5**
-2. Stefan  Wrobel **50:06.7**
+2. [Stefan  Wrobel](https://github.com/swrobel) **50:06.7**
 3. Nathaniel  Talbott **50:07.1**
 4. Mitsuteru  Sawa **50:41.2**
 5. Kenneth  Seal **52:32.1**
