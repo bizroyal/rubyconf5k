@@ -1,7 +1,4 @@
-RubyConf 2012 5k/10k Results
-============================
-
-![5k logo](/RubyConf2012_blue.png)
+![5k logo](https://raw.github.com/modeset/rubyconf5k/master/RubyConf2012_blue.png)
 
 Thanks Everyone for coming out. If there are any errors in the results,
 please just create a github issue and I'll take care of it.
