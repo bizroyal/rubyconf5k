@@ -3,6 +3,8 @@
 Thanks Everyone for coming out. If there are any errors in the results,
 please just create a github issue and I'll take care of it.
 
+Photos of all the runners can be found [here](https://www.dropbox.com/sh/0xla8uk1afh46ki/30hDb1sDcJ).
+
 Special Thanks to the RubyConf Organizational team and sposors for making this conference possible!
 
 The Mode Set Team.
